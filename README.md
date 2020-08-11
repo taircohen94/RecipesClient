@@ -2,8 +2,6 @@ link to the API: https://app.swaggerhub.com/apis/talish94/Assignment3.1/1.0.0
 
 <a href="http://fvcproductions.com"><img src="https://avatars2.githubusercontent.com/u/45098383?s=460&u=5571a38235913d7011a7d307c50013b30d9963ec&v=4" title="Tair" alt="Tair"></a>
 
-***INSERT GRAPHIC HERE (include hyperlink in image)***
-
 # Recipes - Client
 
 > Recipes web application
