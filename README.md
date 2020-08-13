@@ -13,3 +13,5 @@ https://app.swaggerhub.com/apis/talish94/Assignment3.1/1.0.0
 The repo contains only the client side. The Server code you can find in this repo ->
 https://github.com/taircohen94/RecipesServer.git
 
+## Team Members
+- [Tali Schvarz](https://github.com/talish94) - Developer 
