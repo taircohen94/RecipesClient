@@ -7,5 +7,6 @@ An web application for receipes from all over the world!
 By register & sign in to the website , you can save your favorites recipes.
 
 ## About This Repo
-The repo contains only the client side. The Server code you can find in this repo ->>> https://github.com/taircohen94/RecipesServer.git
+The repo contains only the client side. The Server code you can find in this repo ->
+https://github.com/taircohen94/RecipesServer.git
 
