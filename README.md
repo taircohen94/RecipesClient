@@ -6,6 +6,9 @@ An web application for receipes from all over the world!
 *MyRecipes* is an web application , where you can search recipes by big variety of cusines, diets and intolerans.
 By register & sign in to the website , you can save your favorites recipes.
 
+## API - By swaggerhub.com
+https://app.swaggerhub.com/apis/talish94/Assignment3.1/1.0.0
+
 ## About This Repo
 The repo contains only the client side. The Server code you can find in this repo ->
 https://github.com/taircohen94/RecipesServer.git
